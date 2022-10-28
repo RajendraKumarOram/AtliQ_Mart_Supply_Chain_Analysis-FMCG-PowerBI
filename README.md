@@ -17,9 +17,9 @@ Create a dashboard according to the requirements provided by stakeholders in the
 Create relevant insights that are not provided in the metric list/stakeholder meeting.
 
 ## Other resources Provided:
-Relevant Business Knowledge & explanations
-Metadata
-Peter Pandey’s notes taken during the stakeholder meeting
+* Relevant Business Knowledge & explanations
+* Metadata
+* Peter Pandey’s notes taken during the stakeholder meeting
 
 # Provided Peter Pandey’s Notes
 ![Peter Pandey's Note](https://user-images.githubusercontent.com/92287466/198505526-16593ec4-dda2-4828-b9fd-7a267bce4388.png)
