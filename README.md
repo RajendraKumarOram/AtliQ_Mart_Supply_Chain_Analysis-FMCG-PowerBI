@@ -1,5 +1,5 @@
 # AtliQ-_Mart_Supply_Chain_Analysis-FMCG-PowerBI
-I have participated for the October month's challenge to solve buainess problems on AtliQ Mart Supply Chian issues.
+I have participated for the October month's challenge to solve business problems on AtliQ Mart Supply Chian issues.
 * Link to [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
 * Live Dashboard:[Click me](https://sites.google.com/view/rajendra-kumar-oram/projects/logistics-operations/atliq-mart-supply-chain?authuser=0)
  
